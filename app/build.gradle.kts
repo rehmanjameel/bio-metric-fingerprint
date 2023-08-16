@@ -50,4 +50,7 @@ dependencies {
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 
     implementation("androidx.biometric:biometric-ktx:1.2.0-alpha05")
+
+    // library for testing face-lock
+    implementation("dev.skomlach:biometric:2.1.91")
 }
